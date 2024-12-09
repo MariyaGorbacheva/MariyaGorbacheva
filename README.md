@@ -52,18 +52,3 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
-
----
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
-
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
