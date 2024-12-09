@@ -12,7 +12,7 @@
 
 ### 🤝 Социальные сети:
 
-   <a href="https://t.me/https://t.me/MariyamGorbacheva" target="_blank">
+   <a href="https://t.me/MariyamGorbacheva" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -58,6 +58,15 @@
 ---
 
 <!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+
+--- -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
